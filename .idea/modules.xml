@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/drpc-api/drpc-api.iml" filepath="$PROJECT_DIR$/drpc-api/drpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drpc-common/drpc-common.iml" filepath="$PROJECT_DIR$/drpc-common/drpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drpc-consumer/drpc-consumer.iml" filepath="$PROJECT_DIR$/drpc-consumer/drpc-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drpc-parent.iml" filepath="$PROJECT_DIR$/drpc-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drpc-provider/drpc-provider.iml" filepath="$PROJECT_DIR$/drpc-provider/drpc-provider.iml" />
+    </modules>
+  </component>
+</project>

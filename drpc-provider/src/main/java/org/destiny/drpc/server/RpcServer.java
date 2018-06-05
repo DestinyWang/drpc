@@ -28,7 +28,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @author 王康
- * hzwangkang1@corp.netease.com
+ * destinywk@163.com
  * ------------------------------------------------------------------
  * <p>
  *     @see org.springframework.context.ApplicationContextAware

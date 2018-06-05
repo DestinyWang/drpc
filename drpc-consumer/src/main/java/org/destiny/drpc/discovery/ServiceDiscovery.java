@@ -19,7 +19,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * @author 王康
- * hzwangkang1@corp.netease.com
+ * destinywk@163.com
  * ------------------------------------------------------------------
  * <p></p>
  * ------------------------------------------------------------------

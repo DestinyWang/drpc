@@ -7,7 +7,7 @@ import org.destiny.drpc.utils.SerializationUtil;
 
 /**
  * @author 王康
- * hzwangkang1@corp.netease.com
+ * destinywk@163.com
  * ------------------------------------------------------------------
  * <p></p>
  * ------------------------------------------------------------------

@@ -4,7 +4,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * @author 王康
- * hzwangkang1@corp.netease.com
+ * destinywk@163.com
  * ------------------------------------------------------------------
  * <p></p>
  * ------------------------------------------------------------------

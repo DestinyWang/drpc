@@ -14,7 +14,7 @@ import java.util.concurrent.CountDownLatch;
 
 /**
  * @author 王康
- * hzwangkang1@corp.netease.com
+ * destinywk@163.com
  * ------------------------------------------------------------------
  * <p>
  *     服务注册
